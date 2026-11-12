@@ -3,3 +3,9 @@ contact_links:
   - name: GooseWrite Discord
     url: https://discord.gg/pzaHSC4A6
     about: Join our Discord for quick questions, general discussion and community chat.
+  - name: GooseWrite Documentation
+    url: https://www.goosewriteapp.com/docs/
+    about: Check our guides and FAQs first, many questions are already answered.
+  - name: Support & Security Email
+    url: mailto:support@goosewriteapp.com
+    about: For private support, billing issues AND security vulnerability reports. Do NOT open public issues for security bugs.

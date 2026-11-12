@@ -2,7 +2,7 @@
 
 Welcome to the GooseWrite Community! 🚀
 
-GooseWrite is an all-in-one workstation that connects your workflows into a seamless information stream. To protect your privacy and optimize our support efficiency, we use this repository exclusively to track bugs, performance issues, and feature requests.
+GooseWrite is a ThinkStudio of linked knowledge that weaves your project materials into one dynamic, connected system. Driven by information flow, it keeps all your work in a single workspace, updating changes automatically and letting you export and deliver everything as a single file — so chaos dissolves and focus follows.
 
 ---
 

@@ -4,6 +4,14 @@ Welcome to the GooseWrite Community! 🚀
 
 GooseWrite is a ThinkStudio of linked knowledge that weaves your project materials into one dynamic, connected system. Driven by information flow, it keeps all your work in a single workspace, updating changes automatically and letting you export and deliver everything as a single file — so chaos dissolves and focus follows.
 
+## 📌 Find us elsewhere
+- Website: https://www.goosewriteapp.com/
+- X / Twitter: @GooseWriteApp
+- YouTube (Demos & Tutorials): https://www.youtube.com/channel/UCI_XEaPJ3_aO5FMaQQuGs3w
+- Discord Community: https://discord.gg/pzaHSC4A6
+- Support: support@goosewriteapp.com
+
+
 ---
 
 ## 🛠️ How to Get Help

@@ -1,0 +1,36 @@
+name: Feature Request
+description: Suggest a new idea or improvement for GooseWrite.
+title: "[FEATURE] "
+labels: ["enhancement"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your suggestion for GooseWrite!
+        Please describe the feature you want.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: Describe the pain point you are facing.
+      placeholder: I am always frustrated when...
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: How do you want this to work?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: Any other ways you tried to solve this?
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Add any other context, screenshots or examples.
